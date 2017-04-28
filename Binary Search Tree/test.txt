@@ -1,0 +1,13 @@
+I am not certain from the information in this article how the testing was conducted, but I have some serious concerns that the information given here doesn't paint a whole picture of real world effects. 
+
+Lets take one example: Many articles on air and water coolers note that airflow over VRMs and other MB components could be significantly different, yet I never see readings of MB temps, VRM temps, or anything other than CPU. How much of an effect is it? Show the data.
+
+Likewise, as you mention in text, a cooler like this could perform best when it can vent air directly out the side of a case. You lack any data showing this however. As far as I can tell, the usual rigor for testing isn't applied to coolers. 
+
+In my opinion you should test coolers in a handful of configurations. Maybe pick some of the most popular cases or best performing cases in a handful of configurations and use these as a standard. An open test bench is the one configuration that you should never use, since it will never be similar to an actual usage scenario. Feel free to focus on only a few scenarios, like 'big high airflow case for overclocking to the max on air", and "balanced temp/noise performance in a mid-sized size vented case", and "space restricted case with little venting" or whatever, but once you pick the scenarios, please report more than just CPU temp and noise. Report VRM temps, chipset temp, RAM temp, and use a couple temp probes to measure exhaust temp out the side/back, etc. Better yet, show some thermal images of the cooler/MB in operation if you can. Also, make sure you let the case/system 'heat soak' under load so we know how it works under sustained load rather than just a quick heat pulse.
+
+Do this for a few coolers of differing type and see if the picture changes or more is revealed with this method. If it isn't then at least you'll have data to say that more detailed reporting doesn't create a different picture, but I have a suspicion that differing coolers will change positions considerably in the various scenarios, revealing strengths and weaknesses that matter to people looking to buy them for the specific scenario tested.
+
+As an example, I own a Lian-Li V2000B and a Rosewill Throne, both large cases but very different in scenario. The V2000B is a sealed through-flow case with no side vent and the Throne is side/top vent with little airflow out the back. The cooler in this article might work wonders in the Throne, perhaps even better than the other coolers, and be terrible in the V2000B.
+
+Just my 2 cents, but I don't feel I get enough out of these cooler articles to make a good purchase decision.
